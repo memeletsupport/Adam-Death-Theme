@@ -1,12 +1,8 @@
-/**
- * @name Adam death
- * @author Hawk#4872
- * @version 1
- * @description A highly customizable theme based off of the OperaGX browser.
- * @source https://github.com/L-Ratio/OperaGXTheme
- * @invite Xn7UUQUHbN
- * @BDEditor OperaGX Theme
-*/
+{
+	"name": "Adam_Death",
+	"description": "A Github Dark Theme for Enmity",
+	"version": "1.0",
+	"authors": [{ "name": "Lute"
 
 @import url('https://fonts.googleapis.com/css2?family=Sans:wght@100;300;400;500;700&display=swap');
 @import url('https://l-ratio.github.io/OperaGXTheme/release/main.css');
